@@ -3,25 +3,25 @@
 
 
 
-<h1 align="center"> Gifted-Bot Plugins </h1>
+<h1 align="center"> Gifted-Md V.2.0.0 Plugins </h1>
 <div align="center">
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Suhail&label=Visitors%20count&color=10d9c3&style=plastic" alt="GiftedTech-plugin-list" /> </p>
 
 
-ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ CHANNEL 👇 
+# ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ CHANNEL 👇 
 <br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o)
   <div align="center"  >
 <h4 align="center">Plugins</h1>
 
 ---
 
-- Create your own plugins and join group to add that plugin in repo.
-```
-https://chat.whatsapp.com/CTXaW6H7H0h4EJfuTysB6E
-```
+<h3></h3> Create your own plugins and join group to add that plugin in repo.<h3/>
 
+# <b>Join Whatsapp Group: ([@Here](https://chat.whatsapp.com/L0ctUUVLlsrFYwBHApKfew))<b/>
 
+# Usage:
+<h3>Just copy any plugin of your choice and paste in your whatsapp integrated bot account</h3>
 
 
 ---
@@ -29,7 +29,7 @@ https://chat.whatsapp.com/CTXaW6H7H0h4EJfuTysB6E
 
 Live time
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/live.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/live.js
 ```
 - ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : You can know which time is Now
 ---
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 SEnds  Animated Teddy 
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/teddy.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/teddy.js
 ```
 ---
 
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Sends Your Intro
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/intro.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/intro.js
 ```
 - Editable Plugin : fork it, and fill your information!
 ---
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 save , read and delete notes
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/notes.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/notes.js
 ```
 - ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Save notes in server side
 ---
@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Auto React Messages
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/areact.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/areact.js
 ```
 - Auto React Messages/Cmds/Alls
 ---
@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Decline Call From Spammers
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/anticall.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/anticall.js
 ```
 - Auto Decline calls, from selected numbers, Or also Decline Call from All
 ---
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Status Saver.
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/ssaver.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/ssaver.js
 ```
 - Save Someones Whatsapp Statuses,
 
@@ -92,7 +92,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Rank, Profile , Leaderboard, LevelUp
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/rank.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/rank.js
 ```
 - Mongodb Require To Access these cmds
 ---
@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Auto Download ViewOnce Messages.
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/antivv.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/antivv.js
 ```
 
 ---
@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 DETECT AND SENDS DELETED MESSAGES IN CHAT
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/delete.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/delete.js
 ```
 
 ---
@@ -121,7 +121,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 - send anime reactions.
 ```
-https://gist.githubusercontent.com/SuhailTechInfo/46087297afd330ad280d7cfc74eccbf8/raw
+.install https://gist.githubusercontent.com/SuhailTechInfo/46087297afd330ad280d7cfc74eccbf8/raw
 ```
  20+ commands Pack for randome anime reaction
 ---
@@ -130,7 +130,7 @@ https://gist.githubusercontent.com/SuhailTechInfo/46087297afd330ad280d7cfc74eccb
 
 
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/audio.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/audio.js
 ```
 - change audio in different varity
 ---
@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Textpro logo list
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/logo.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/logo.js
 ```
 - Text to Image Logo creator
 ---
@@ -148,7 +148,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Randome Cat
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/cat.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/cat.js
 ```
 - Send Randome Cat Images In Chat
 
@@ -158,7 +158,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Randome Dog Videos
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/dog.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/dog.js
 ```
 - Sends Randome Dog Video Or Image
 ---
@@ -167,7 +167,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Send Fake Reply by Given number and message Type
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/fakereply.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/fakereply.js
 ```
 
 ---
@@ -176,7 +176,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Hacking Prank
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/hack.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/hack.js
 ```
 
 ---
@@ -187,7 +187,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
 Get all jids
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/getall.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/getall.js
 ```
 - Get all member,all groups and all pm user jids
 ---
@@ -200,7 +200,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
  Media Editor
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/xmedia.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/xmedia.js
 ```
 -  40+ features to edit media messages, image,audio and video editor
 ---
@@ -211,7 +211,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
  Delete Multitple messages 
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/delspam.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/delspam.js
 ```
 -  Delete messages of a user from Group!
 ---
@@ -222,7 +222,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
  Search Stickers
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/stickersearch.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/stickersearch.js
 ```
 -  Delete messages of a user from Group!
 ---
@@ -235,7 +235,7 @@ https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugi
 
  Search gif Videos
 ```
-https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/gifsearch.js
+.install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/gifsearch.js
 ```
 -  Delete messages of a user from Group!
 ---
