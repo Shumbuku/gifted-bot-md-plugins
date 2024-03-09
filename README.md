@@ -23,6 +23,14 @@
 # Usage:
 <h3>Just copy any plugin of your choice and paste in your whatsapp integrated bot account</h3>
 
+---
+<h4 align="center"> AutoForward </h1>
+
+Live time
+```
+.install https://gist.githubusercontent.com/Giftedmaurice/05652aa7af07fecca67c5a75d8982d40/raw
+```
+  <h5>ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : .autoforward<h5/>
 
 ---
 <h4 align="center"> Live </h1>
@@ -32,6 +40,41 @@ Live time
 .install https://raw.githubusercontent.com/Giftedmaurice/gifted-bot-md-plugins/main/plugins/live.js
 ```
 - ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : You can know which time is Now
+---
+
+<h4 align="center">  Fd  </h1>
+
+Forward Messages with Editable Preview 
+```
+.install https://gist.githubusercontent.com/Giftedmaurice/59d5023bdb8657338eaf52f9b4d05a6e/raw
+```
+---
+
+<h4 align="center">  Insta Downloader  </h1>
+
+Download Insta Videos 
+```
+.install https://gist.githubusercontent.com/Giftedmaurice/cffddc23e8537b0f99b7c689c6a20f47/raw
+```
+<h5>USAGE : .insta insta_video_url</h5>
+---
+
+<h4 align="center">  Gdrive Downloader  </h1>
+
+Download Google Drive Files,Media etc 
+```
+.install https://gist.githubusercontent.com/Giftedmaurice/cffddc23e8537b0f99b7c689c6a20f47/raw
+```
+<h5>USAGE : .gdrive Google_drive_url</h5>
+---
+
+<h4 align="center">  URL Downloader  </h1>
+
+Dowanload files from url 
+```
+.install https://gist.githubusercontent.com/Giftedmaurice/cffddc23e8537b0f99b7c689c6a20f47/raw
+```
+<h5>USAGE : .download file_url</h5>
 ---
 
 <h4 align="center">  Teddy  </h1>
